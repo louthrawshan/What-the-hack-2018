@@ -1,2 +1,2 @@
 # What-the-hack-2018
-Random code implemented using ARCore in unity for the What the Hack Hackathon 2018                                               
+Random code implemented using ARCore in unity for the What the Hack Hackathon 2018. Was used to make 3D signages in AR to show the direction and distance to a certain location from current location. Credits to the following tutorials: https://www.youtube.com/watch?v=g04jaC-Tpn0, https://codelabs.developers.google.com/codelabs/arcore-intro/index.html?index=..%2F..%2Fio2018#1.                                               
